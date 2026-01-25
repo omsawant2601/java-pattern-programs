@@ -1,11 +1,11 @@
-class Program16
+class Program15
 {
 	public static void main(String[] args)
 	{
 		int n = 5;
-		for(int i =n; i>=1; i--)
+		for(int i = 1 ;i<=n ; i++)
 		{
-			for(int j =i;j>=1;j--)
+			for(int j = i ;j <=n; j++)
 			{
 				System.out.print(i);
 			}
@@ -15,10 +15,10 @@ class Program16
 }
 /*
 
-55555
-4444
+11111
+2222
 333
-22
-1
+44
+5
 
 */

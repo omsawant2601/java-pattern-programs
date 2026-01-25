@@ -1,17 +1,17 @@
-class Program35
+class Program40
 {
 	public static void main(String[] args)
 	{
-		int n =5;
-		for(int i = n ; i>=1; i--)
+		int n= 5;
+		for(int i = 1; i<= n; i++)
 		{
 			for(int j = i; j>1; j--)
 			{
 				System.out.print(" ");
-			}	
-			for(int j =i ; j <=5 ; j++)
+			}
+			for(int j = i ; j <=n; j++)
 			{
-				System.out.print((char)(i+96));
+				System.out.print("*");
 			}
 			System.out.println();
 		}
@@ -20,10 +20,10 @@ class Program35
 
 /*
 
-    e
-   dd
-  ccc
- bbbb
-aaaaa
+*****
+ ****
+  ***
+   **
+    *
 
 */

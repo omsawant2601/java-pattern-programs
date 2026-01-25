@@ -1,17 +1,17 @@
-class Program46
+class Program41
 {
 	public static void main(String[] args)
 	{
 		int n= 5;
-		for(int i = 1; i<=n; i++)
+		for(int i = 1;i<=n;i++)
 		{
-			for(int j = i ; j>1; j--)
+			for(int j = i ;j>1 ;j--)
 			{
 				System.out.print(" ");
 			}
-			for(int j = i; j<= 5; j++)
+			for(int j= i ; j <=n ;j++)
 			{
-				System.out.print(j);
+				System.out.print(i);
 			}
 			System.out.println();
 		}
@@ -20,10 +20,10 @@ class Program46
 
 /*
 
-12345
- 2345
-  345
-   45
+11111
+ 2222
+  333
+   44
     5
 
 */

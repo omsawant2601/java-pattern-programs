@@ -9,7 +9,7 @@ class Program47
 			{
 				System.out.print(" ");
 			}
-			for(int j = i ; j<=5 ;j++)
+			for(int j = i ; j<=n ;j++)
 			{
 				System.out.print((char) (i+64));
 			}
