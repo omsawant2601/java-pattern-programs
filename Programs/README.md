@@ -1,6 +1,6 @@
 # 🎯 Java Pattern Printing Programs
 
-A comprehensive collection of **50+ Java pattern printing programs** designed to strengthen **logic building**, **loop mastery**, and **problem-solving skills**.
+A comprehensive collection of **80+ Java pattern printing programs** designed to strengthen **logic building**, **loop mastery**, and **problem-solving skills**.
 
 This repository is especially useful for:
 - Beginners learning Java
